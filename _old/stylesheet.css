@@ -1,0 +1,131 @@
+body {
+  background-color: #e63c3f;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+  color: #f4f4f2;
+  font-family: "Karla", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+h1 {
+  font-family: Karla;
+  font-size: 67px;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: var(--grey);
+}
+
+h2 {
+  font-family: Karla;
+  font-size: 50px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.1;
+  letter-spacing: normal;
+  color: var(--grey);
+}
+
+h4 {
+  font-family: Karla;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+}
+
+h5 {
+  font-family: Karla;
+  font-size: 21px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+}
+
+p {
+  font-family: Karla;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+
+label {
+  font-family: Karla;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black);
+}
+
+quotetext {
+  font-family: Karla;
+  font-size: 50px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 55px;
+  letter-spacing: normal;
+  color:
+}
+
+.half {
+  display: inline-block;
+  width: 50%;
+  margin-top: 0px;
+}
+
+.usp {
+  display: inline-flex;
+}
+
+.center {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.container {
+  position: relative;
+  padding:
+}
+
+.quote-text {
+  position: absolute;
+  padding: 40px 40px 80px 40px;
+  width: 100%;
+  color: #e63c3f;
+
+#usp-section {
+  padding: 73px 48px 30px 48px;
+  box-shadow: 0 0 64px 0 rgba(0, 0, 0, 0.2);
+}
+
+button {
+  padding: 20px 88px 20px 88px;
+  background: #8FD953;
+  border-radius: 6px;
+  border: none;
+  box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.3);
+}
+
+.green {
+  background: #8FD953;
+}
+
+.white {
+  background: #ffffff;
+}

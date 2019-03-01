@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="132px" viewBox="0 0 158 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>quotation-mark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.100000001">
+        <g id="Desktop-HD" transform="translate(-1090.000000, -1728.000000)" fill="#E63C3F" fill-rule="nonzero">
+            <g id="quote" transform="translate(148.000000, 1688.000000)">
+                <g id="quote-front" transform="translate(676.000000, 0.000000)">
+                    <path d="M305.375,108.67423 L329,108.67423 L329,172 L266,172 L266,124.077796 C266,71.733936 286.99979,43.7082843 329,40 L329,63.7471637 C313.249921,68.1685796 305.375,80.8621318 305.375,101.828201 L305.375,108.67423 Z M400.375,108.67423 L424,108.67423 L424,172 L361,172 L361,124.077796 C361,71.733936 381.99979,43.7082843 424,40 L424,63.7471637 C408.249921,68.1685796 400.375,80.8621318 400.375,101.828201 L400.375,108.67423 Z" id="quotation-mark" transform="translate(345.000000, 106.000000) rotate(-180.000000) translate(-345.000000, -106.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="498px" height="524px" viewBox="0 0 498 524" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>quote-shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1113,536 L1090.19239,558.807612 C1085.11557,563.884428 1076.88443,563.884428 1071.80761,558.807612 L1049,536 L761,536 C753.820298,536 748,530.179702 748,523 L748,85 C748,77.8202983 753.820298,72 761,72 L1199,72 C1206.1797,72 1212,77.8202983 1212,85 L1212,523 C1212,530.179702 1206.1797,536 1199,536 L1113,536 Z" id="path-1"></path>
+        <filter x="-5.0%" y="-4.6%" width="112.1%" height="110.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-884.000000, -1748.000000)" fill-rule="nonzero">
+            <g id="quote" transform="translate(148.000000, 1688.000000)">
+                <g id="quote-shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#EF4853" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
